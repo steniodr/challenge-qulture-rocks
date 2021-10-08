@@ -11,5 +11,11 @@
     "qulture-rocks"
   ],
   "author": "Stenio D. Rapchan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "got": "^11.8.2",
+    "json2csv": "^5.0.6",
+    "moment": "^2.29.1"
+  }
 }
