@@ -1,0 +1,15 @@
+{
+  "name": "qulture-rockes-challenge",
+  "version": "1.0.0",
+  "description": "Challenge to demonstrate ny skills and how I work",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "challenge",
+    "qulture-rocks"
+  ],
+  "author": "Stenio D. Rapchan",
+  "license": "ISC"
+}
